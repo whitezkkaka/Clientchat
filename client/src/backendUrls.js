@@ -1,6 +1,6 @@
 const backendUrls = {
-  http: 'https://chatqualquer.onrender.com',
-  ws: 'wss://chatqualquer.onrender.com/graphql',
+  http: 'https://apenasumchat.netlify.app',
+  ws: 'wss://apenasumchat.netlify.app//graphql',
 };
 
 export default backendUrls;
